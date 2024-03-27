@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body {
+  background: url('images/wp3764720.webp') no-repeat center center fixed;
+  background-size: cover;
+
+}

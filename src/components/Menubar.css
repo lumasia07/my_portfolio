@@ -1,0 +1,18 @@
+.menubar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.menubar ul li {
+    list-style: none;
+    float: left;
+    margin-left: 30px;
+    color: aliceblue;
+}
+
+.menubar ul li:hover {
+    cursor: pointer;
+    color: maroon;
+}
