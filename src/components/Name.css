@@ -1,0 +1,9 @@
+.name {
+    width: 22vw;
+    padding-left: 2vw;
+    display: flex;
+    margin-left: 14vw;
+    border-left: 7px solid aliceblue;
+    margin-top: -10vw;
+    color: aliceblue;
+}

@@ -1,0 +1,19 @@
+.profile {
+    color: black;
+    height: 8vw;
+    width: 8vw;
+    border-radius: 50%;
+    border: 10px solid black;
+    border-style: dashed;
+    margin: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+
+}
+
+.profile h1 {
+    font-weight: 500;
+    font-size: 5vw;
+}
