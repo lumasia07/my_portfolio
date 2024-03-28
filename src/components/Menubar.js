@@ -8,8 +8,9 @@ class Menubar extends Component {
         <ul>
             <li>My Skills</li>
             <li>Bio</li>
+            <li>Projects</li>
             <li>My Services</li>
-            <li>Contact Me</li>
+            <li>Contact</li>
         </ul>
       </div>
     )

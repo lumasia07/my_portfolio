@@ -1,16 +1,20 @@
 .menubar {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    
+    display: flex;
+    width: 50vw;
+    margin-left: 45vw;
+    margin-top: -7vw;
 
 }
 
 .menubar ul li {
     list-style: none;
     float: left;
-    margin-left: 30px;
+    margin-left: 5vw;
     color: aliceblue;
+    border-bottom: 3px solid wheat;
+    padding-bottom: 0.5vw;
+
 }
 
 .menubar ul li:hover {
