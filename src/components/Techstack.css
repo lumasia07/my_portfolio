@@ -1,7 +1,18 @@
 .techstack {
-    height: 30vw;
+    height: 32vw;
     width: 30vw;
     margin-left: 10vw;
     background-color: black;
     border-radius: 2vw;
+}
+
+.techstack ul li {
+    color: aliceblue;
+    list-style: none;
+    margin-top: 1vw;
+}
+
+.techstack h2 {
+    color: aliceblue;
+    text-align: center;
 }

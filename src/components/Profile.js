@@ -7,7 +7,6 @@ class Profile extends Component {
       <div className='profile'>
         <h1>L</h1>
       </div>
-
     )
   }
 }
