@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import Techstack from './Techstack'
 import './Desc.css'
 
 class Desc extends Component {
@@ -12,6 +11,8 @@ class Desc extends Component {
         With strong communication skills, he collaborates effectively with teams and prioritizes accessibility in his work.
         Passionate about user-centric design, he actively contributes to making the web a more inclusive space.
         </p>
+        <h3>View my work below</h3>
+        <button className='project-button'>Projects</button>
       </div>
     )
   }
