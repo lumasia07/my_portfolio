@@ -4,15 +4,18 @@
     margin-left: 10vw;
     background-color: black;
     border-radius: 2vw;
+    border-bottom-right-radius: 0;
 }
 
 .techstack ul li {
     color: aliceblue;
     list-style: none;
     margin-top: 1vw;
+    font-size: 2vw;
 }
 
 .techstack h2 {
     color: aliceblue;
     text-align: center;
+    padding: 8px;
 }
